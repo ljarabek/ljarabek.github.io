@@ -21,5 +21,5 @@ const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
 
 // Initialize Firestore and Auth - TEGA NI BLO NOTR MOGOČE ZBRIŠEŠ???
-export const db = getFirestore(app);
-export const auth = getAuth(app);
+// export const db = getFirestore(app);
+// export const auth = getAuth(app);
